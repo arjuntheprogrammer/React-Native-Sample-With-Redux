@@ -10,39 +10,39 @@ Reference: <https://github.com/JulianCurrie/CwC_React_Native/tree/redux_tutorial
 
 React Native macOS App
 
-* <https://microsoft.github.io/react-native-windows/docs/rnm-getting-started>
-* npx react-native-macos-init
-* cd macos && pod install && cd ..
-* npx react-native run-macos
+    * <https://microsoft.github.io/react-native-windows/docs/rnm-getting-started>
+    * npx react-native-macos-init
+    * cd macos && pod install && cd ..
+    * npx react-native run-macos
 
 React Native Windows App
 
-* <https://microsoft.github.io/react-native-windows/docs/getting-started>
-* npx react-native-windows-init --overwrite
-* npx react-native run-windows
+    * <https://microsoft.github.io/react-native-windows/docs/getting-started>
+    * npx react-native-windows-init --overwrite
+    * npx react-native run-windows
 
 React Native Android App
 
-* npx react-native run-android
+    * npx react-native run-android
 
 React Native IOS App
 
-* cd ios && pod install && cd ..
-* npx react-native run-ios
+    * cd ios && pod install && cd ..
+    * npx react-native run-ios
 
 To reset cache
 
-* react-native start --reset-cache
+    * react-native start --reset-cache
 
 To uninstall App
 
-* adb uninstall com.samplereduxapp
+    * adb uninstall com.samplereduxapp
 
 Setting Up Redux
 
-* npm install --save redux
-* npm install --save react-redux
-* npm install --save redux-thunk
+    * npm install --save redux
+    * npm install --save react-redux
+    * npm install --save redux-thunk
 
 ---
 
